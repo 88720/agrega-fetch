@@ -1,0 +1,84 @@
+body {
+  background-color: darkkhaki;
+}
+
+#titulo {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 45px;
+  color: firebrick;
+  border: 3px rgb(70, 2, 2) solid;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 5px;
+  text-align: center;
+  background-color: grey;
+}
+
+#subtitulo {
+  color: whitesmoke;
+  font-size: 35px;
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  margin: 5px;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+.fotos {
+  height: 170px;
+  width: 1300px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  float: initial;
+  object-fit: cover;
+}
+div {
+  font-size: 20px;
+  color: rgb(84, 9, 9);
+}
+#actividades {
+  color: coral;
+  font-size: 20px;
+  background-color: rgb(37, 53, 179);
+  width: fit-content;
+  text-align: left;
+}
+.noSocioBloque {
+  width: fit-content;
+  text-align: right;
+  float: right;
+}
+.actFaltaBloque {
+  margin: 0px;
+  text-align: center;
+  float: center;
+}
+
+#actSocio {
+  color: rgb(202, 186, 180);
+  font-size: 20px;
+  background-color: rgb(37, 53, 179);
+  width: fit-content;
+  text-align: left;
+}
+#saludo {
+  color: rgb(202, 186, 180);
+  font-size: 20px;
+  background-color: rgb(37, 53, 179);
+  width: fit-content;
+  text-align: center;
+}
+
+#anuncio {
+  color: gainsboro;
+  object-fit: scale-down;
+  background-color: rgb(23, 48, 95);
+  margin: 1%;
+  padding: 1%;
+  height: 25px;
+  text-align: center;
+}

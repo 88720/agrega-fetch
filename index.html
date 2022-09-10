@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Club Coder</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1 id="titulo">CLUB CODER</h1>
+    <h2 id="subtitulo">El club de la familia</h2>
+    <hr />
+        <div id="clave"></div>
+     <input id="clave1" placeholder="Ingrese clave" type="text"></input>
+    <input Type="button" Value="confirmar" onclick="return clave()">
+    <div id ="paraLlamar"></div>
+    <div id ="ultimaVisita"></div>
+    <div id="div1"></div>
+    
+    <h2 id="subtitulo">
+      Estas son algunas de nuestras actividades
+    </h2>
+<div class="fotos">
+    <img src="https://www.webconsultas.com/sites/default/files/styles/wc_adaptive_noticia__medium__webp/public/media/2022/06/02/deportes_equipo_mejor_salud_mental_0_jpg.webp"/>
+    <img src="https://img.bekiapadres.com/articulos/portada/100000/100194.jpg"/>
+    <img src="https://www.diariosumario.com.ar/u/fotografias/m/2019/9/2/f800x450-19870_71316_5050.jpg"/>
+    <img src="https://static.eldiario.es/clip/28f7f1ff-66f2-4888-8f9e-613be6596778_16-9-aspect-ratio_default_0.jpg"/>
+</div>
+<div class="noSocioBloque">
+    <div id="noSocio"></div>
+    <div id="noSocio2"></div>
+    <input id="noSocioNombre" placeholder="Nombre y Apellido" type="text"></input>
+    <input id="noSocioTel" placeholder="Teléfono de contacto" type="number"></input>
+    <input Type="button" Value="enviar" onClick="return secretaria()">
+   
+</div>
+    <div id="nombre">BUSCADOR DE ACTIVIDADES</div>
+    <div id="nombre">Bienvenido/a! Por favor decinos tu nombre</div>
+    <input id= "nombre1" placeholder="Nombre y Apellido" type="text"></input>
+    <input Type="button" Value="confirmar" onclick="return saludo()">
+    <div id="socio"></div>
+   
+    <input id= "botonBuscar" Type="button" Value="Buscar mi actividad" onclick="return pregunta()">
+    <input id="botonCompleto" Type="button" Value="Ver listado completo" onclick="return completo()">
+
+    <div id="busc"></div>
+    <input id= "buscar" placeholder= "Filtrá tu actividad" type="number"></input>
+    <input Type="button" Value="confirmar" onclick="return buscar()">
+    <div id="completo"></div>
+    <div id="final"></div>
+<hr>
+    <div class="actFaltaBloque">
+    <div id="actividadQueFalta">¿Te parece que habría que sumar otra actividad? ¿Cuál sería?</div>
+    <input id="final1" placeholder="Actividad que falta" type="text"></input>
+    <input Type="button" Value="enviar" onclick="return check()">
+    <hr>
+
+    <div id="saludo"></div>
+    <div id="actividades"></div>
+
+    <hr />
+    <div>
+      <h3 id="anuncio">Noticias</h3>
+      <h3 id="anuncio">Torneos</h3>
+      <h3 id="anuncio">Staff</h3>
+      <h3 id="anuncio">Próximos eventos</h3>
+    </div>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="main.js"></script>
+  </body>
+</html>

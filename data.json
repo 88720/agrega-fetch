@@ -1,0 +1,107 @@
+[
+  {
+    "categoria": "infantil",
+    "actividad": "Mini Handbol",
+    "profe": "Juan Smith",
+    "modo": "presencial",
+    "precio": 3000
+  },
+  {
+    "categoria": "infantil",
+    "actividad": "Natación delfin",
+    "profe": "Lorena Matos",
+    "modo": "presencial",
+    "precio": 3500
+  },
+  {
+    "categoria": "infantil",
+    "actividad": "Gimnasia artística",
+    "profe": "Natalia Perez",
+    "modo": "presencial",
+    "precio": 2000
+  },
+  {
+    "categoria": "infantil",
+    "actividad": "Expresión Corporal",
+    "profe": "Valeria Sosa",
+    "modo": "presencial",
+    "precio": 2500
+  },
+  {
+    "categoria": "infantil",
+    "actividad": "Juegos recreativos",
+    "profe": "Jhony Paredes",
+    "modo": "virtual",
+    "precio": 1500
+  },
+  {
+    "categoria": "juvenil",
+    "actividad": "Voley",
+    "profe": "Pablo Gomez",
+    "modo": "presencial",
+    "precio": 2000
+  },
+  {
+    "categoria": "juvenil",
+    "actividad": "Natación Tiburón",
+    "profe": "Carlos Bona",
+    "modo": "presencial",
+    "precio": 3500
+  },
+  {
+    "categoria": "juvenil",
+    "actividad": "Hockey",
+    "profe": "Raul Careye",
+    "modo": "presencial",
+    "precio": 1500
+  },
+  {
+    "categoria": "juvenil",
+    "actividad": "Crossfit",
+    "profe": "Valeria Memes",
+    "modo": "presencial",
+    "precio": 2500
+  },
+  {
+    "categoria": "juvenil",
+    "actividad": "Eutonía",
+    "profe": "Marcela Gazcón",
+    "modo": "virtual",
+    "precio": 2500
+  },
+  {
+    "categoria": "adulto",
+    "actividad": "Futbol",
+    "profe": "Ricardo Calderón",
+    "modo": "presencial",
+    "precio": 2000
+  },
+  {
+    "categoria": "adulto",
+    "actividad": "Meditación",
+    "profe": "Lorena Perez",
+    "modo": "virtual",
+    "precio": 1500
+  },
+  {
+    "categoria": "adulto",
+    "actividad": "Gimnasia adultos",
+    "profe": "Jimena Britos",
+    "modo": "presencial",
+    "precio": 2500
+  },
+  {
+    "categoria": "adulto",
+    "actividad": "Newcom",
+    "profe": "Horacio Tebes",
+    "modo": "presencial",
+    "precio": 3500
+  },
+  {
+    "categoria": "adulto",
+    "actividad": "Atletismo",
+    "profe": "Carolina Fernández",
+    "modo": "presencial",
+    "precio": 2500
+  }
+]
